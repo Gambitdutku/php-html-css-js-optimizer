@@ -39,7 +39,4 @@ This project is a script that processes a directory of `.html` and `.php` files 
 ## Usage
    ```bash
    python3 app.py
-## Or
-   ```bash
-   python app.py
 
