@@ -37,9 +37,9 @@ This project is a script that processes a directory of `.html` and `.php` files 
    ```bash
    pip install -r requirements.txt
 ## Usage
-```bash
+   ```bash
    python3 app.py
 ## Or
-```bash
+   ```bash
    python app.py
 
