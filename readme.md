@@ -40,6 +40,7 @@ This project is a script that processes a directory of `.html` and `.php` files 
 ```bash
    python3 app.py
 or
+
 ```bash
    python app.py
 
